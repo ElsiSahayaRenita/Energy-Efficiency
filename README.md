@@ -1,5 +1,9 @@
 # Energy-Efficiency
-Problem Statement:
+#Data-Set-Information:
+We perform energy analysis using 12 different building shapes simulated in Ecotect. The buildings differ
+with respect to the glazing area, the glazing area distribution, and the orientation, amongst other
+parameters.
+#Problem-Statement:
 The effect of eight input variables (relative compactness, surface area, wall area, roof
 area, overall height, orientation, glazing area, glazing area distribution) on two output
 variables, namely heating load (HL) and cooling load (CL), of residential buildings is

@@ -17,4 +17,4 @@ to discover the most strongly associated input variables. We need to estimate HL
 CL, we can compare a traditional linear regression approach to a sophisticated
 state-of-the-art nonlinear non-parametric method, random forests.
 
-CLICK HERE >>> https://drive.google.com/file/d/1ybiqtOYlOYtTkJRYe2QSiN602PGkgZDT/view?usp=sharing << to view Presentation 
+CLICK HERE >>>> https://docs.google.com/presentation/d/1GGcpuSdSLUB0tV6s-R_c3lkHsw_KhOLQYAlGWJmM2Nc/edit?usp=sharing <<<< to view Presentation 

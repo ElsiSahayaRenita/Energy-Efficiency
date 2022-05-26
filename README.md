@@ -1,4 +1,6 @@
 # Energy-Efficiency
+![Energy-Efficiency-Buildings](https://user-images.githubusercontent.com/95954108/170451523-67933a9a-9cf7-4d44-a90f-54de89c1eaae.jpg)
+
 Data Set Information:
 We perform energy analysis using 12 different building shapes simulated in Ecotect. The buildings differ
 with respect to the glazing area, the glazing area distribution, overall height, relative compactness and the orientation, amongst other
